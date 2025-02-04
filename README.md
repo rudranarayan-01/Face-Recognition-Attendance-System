@@ -1,5 +1,8 @@
 # Face Recognition Attendance System
 
+![image](https://github.com/user-attachments/assets/08cd157e-a4d8-44a4-82a2-21376a5171fe)
+
+
 ## Overview
 This project is a real-time **Face Recognition Attendance System** using OpenCV and face_recognition in Python. It captures live video from a webcam, detects and recognizes faces, and marks attendance by saving the timestamp in a CSV file.
 
