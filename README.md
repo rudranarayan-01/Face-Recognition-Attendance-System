@@ -71,3 +71,4 @@ This project is open-source and available for modification and distribution.
 
 Developed with ❤️ using Python & OpenCV.
 
+Thank you ✨
