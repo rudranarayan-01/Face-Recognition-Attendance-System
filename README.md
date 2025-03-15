@@ -74,5 +74,7 @@ Developed with ❤️ using Python & OpenCV.
 
 ## Contact
 For any queries or contributions, contact **rudranarayansahu.tech@gmail.com** or visit **[GitHub](https://github.com/rudranarayan-01)**.
+
 Feel free to connect ✨✨
+
 Thank you ✨✨
